@@ -4,7 +4,8 @@
 
 I'm Aditya, a kinesthetic learner who's always learning and building new things. ⚡
 
-My curiosity for tech gadgets led me to code, and I became a self-taught developer. To share what I’ve learned, we’re building **[Tech Bastic](techbastic.github.io)**, an open-source community that helps you become a self-taught developer, where we learn, build, and grow together. 🤖
+I was always curious about tech gadgets, which led me to code and helped me become a self-taught developer.
+To share what I’ve learned, we’re building **[Tech Bastic](techbastic.github.io)**, an open-source community that helps you become a self-taught developer, where we learn, build, and grow together. 🤖
 
 When I’m not coding, you’ll find me creating content, connecting with fellow community folks, or travelling solo. 👨‍💻
 
