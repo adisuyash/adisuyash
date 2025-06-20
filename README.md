@@ -2,13 +2,13 @@
 
 ### Hey there! 👋
 
-I'm Aditya, a kinesthetic learner who's always learning and building new things. ⚡
+I'm Aditya, a self-taught dev and kinesthetic learner who's always building something new ⚡
 
-I was always curious about tech gadgets, which led me to code and helped me become a self-taught developer.
+For the past 2.5+ years, I've been shipping web & onchain apps, advocating for devs and helping grow developer communities 🌍
 
-To share what I’ve learned, we’re building **[Tech Bastic](https://techbastic.github.io)**, an open-source community that helps you become a self-taught developer, where we learn, build, and grow together. 🤖
+To share what I’ve learned, we’re building **[Tech Bastic](https://techbastic.github.io)**, an open-source community that helps you become a self-taught developer, where we learn, build, and collaborate 💻
 
-When I’m not coding, you’ll find me creating content, connecting with fellow community folks, or travelling solo. 👨‍💻
+I love creating tech content, hacking at hackathons, connecting with folks in the community, and travelling solo ✈️
 
-#### Contact Information
-Want to connect? Shoot me an email at adityasuyashgupta@gmail.com. I’ll get back to you soon! ⚡
+#### Want to connect? 🤝
+Grab a time slot [here](https://cal.com/adisuyash) (OR) shoot me an email at [adityasuyashgupta@gmail.com](mailto:adityasuyashgupta@gmail.com). I’ll get back to you soon! :)
